@@ -13,6 +13,7 @@ function Header() {
           <button className="hover:text-[#CAEF45]" href="#services">SERVICES</button>
           <button className="hover:text-[#CAEF45]" href="#projects">PROJECTS</button>
           <button className="hover:text-[#CAEF45]" href="#contact">CONTACT</button>
+          <button className="hover:text-[#CAEF45]" href="#blog">BLOG</button>
         </nav>
         <div className="flex gap-2">
           <button className="bg-[#CAEF45] text-black hover:bg-[#CAEF45] rounded-full">Portfoliyo</button>
